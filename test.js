@@ -3,5 +3,5 @@ function alert() {
 }
 
 function greet(name) {
-    // Implementation
+    console.log("Hi, Mr", name);
 }
